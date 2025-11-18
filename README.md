@@ -13,7 +13,6 @@ This project implements a gradient boosting classifier using a **3-Way Data Spli
 The model was evaluated on an unseen test set. As shown below, the heatmap visualizes the True Positives vs. False Positives.
 
 ![Confusion Matrix](confusion_matrix.png)
-*(Note: Replace 'confusion_matrix.png' with the exact name of your uploaded file)*
 
 ### 2. Feature Importance
 Using the native XGBoost importance metrics, we identified which data points were the primary drivers for the model's decisions.
